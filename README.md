@@ -1,1 +1,1 @@
-# Diwakar-tech.edu
+PythonicDiwakar.in
